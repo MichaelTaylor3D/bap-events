@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 398\n"
+"POT-Creation-Date: 2014-07-06 21:08-0000\n"
+"PO-Revision-Date: 2014-07-06 21:25-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../content.php:15 ../homepage.php:23
+msgid "Continue Reading &rarr;"
+msgstr "Seguir leyendo &rarr;"
+
+#: ../content.php:17
+msgid "<span class=\"pages\">Pages</span>"
+msgstr "<span class=\"pages\">Páginas</span>"
+
+#: ../functions.php:71
+msgid "Header Menu"
+msgstr "Menú Header"
+
+#: ../functions.php:72
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: ../functions.php:73
+msgid "Secondary Menu"
+msgstr "Menú Secundario"
+
+#: ../functions.php:74
+msgid "Footer Menu"
+msgstr "Menú Pie de página"
+
+#: ../functions.php:89
+msgid "Sidebar Widgets"
+msgstr "Sidebar Widgets"
+
+#: ../functions.php:99
+msgid "Header Widgets"
+msgstr "Header Widgets"
+
+#: ../functions.php:109
+msgid "Footer Widgets"
+msgstr "Reproductores de pie de página"
+
+#: ../functions.php:119
+msgid "Homepage Widgets"
+msgstr "Homepage Widgets"
+
+#: ../functions.php:129
+msgid "Parallax Widgets"
+msgstr "Parallax Reproductores"
+
+#: ../functions.php:154
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../functions.php:172
+msgid "<span class=\"edit\">Edit this</span>"
+msgstr "<span class=\"edit\">Editar</span>"
+
+#: ../functions.php:190
+#, php-format
+msgid "Posted by %1$s on %2$s"
+msgstr "Publicado por %1$s en %2$s"
+
+#: ../functions.php:203
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: ../functions.php:203
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: ../functions.php:203
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../functions.php:217
+msgid "Posted in "
+msgstr "Publicado en "
+
+#: ../functions.php:221
+msgid "<span class=\"tags\">Tags: "
+msgstr "<span class=\"tags\">Etiquetas:"
+
+#: ../functions.php:224
+msgid "<br /><span class=\"edit\">Edit This</span>"
+msgstr "<br /><span class=\"edit\">Editar</span>"
+
+#: ../homepage.php:25
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../pagination.php:3
+msgid "&#8249; Older posts"
+msgstr "&#8249; Más viejo"
+
+#: ../pagination.php:4
+msgid "Newer posts &#8250;"
+msgstr "Más nuevo &#8250;"
+
+#: ../sidebar.php:13
+msgid "Archives"
+msgstr "Archivo"
